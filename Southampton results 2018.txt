@@ -1,0 +1,38 @@
+10 December 2017 16	Southampton	1–1	Arsenal
+10 March 2018 30	Newcastle United	3–0	Southampton
+11 February 2018 27	Southampton	0–2	Liverpool
+12 August 2017 1	Southampton	0–0	Swansea City
+13 December 2017 17	Southampton	1–4	Leicester City
+13 January 2018 23	Watford	2–2	Southampton
+13 May 2018 38	Southampton	0–1	Manchester City
+14 April 2018 33	Southampton	2–3	Chelsea
+15 October 2017 8	Southampton	2–2	Newcastle United
+16 December 2017 18	Chelsea	1–0	Southampton
+16 September 2017 5	Crystal Palace	0–1	Southampton
+18 November 2017 12	Liverpool	3–0	Southampton
+19 April 2018 34	Leicester City	0–0	Southampton
+19 August 2017 2	Southampton	3–2	West Ham United
+2 January 2018 22	Southampton	1–2	Crystal Palace
+21 January 2018 24	Southampton	1–1	Tottenham Hotspur
+21 October 2017 9	Southampton	1–0	West Bromwich Albion
+23 December 2017 19	Southampton	1–1	Huddersfield Town
+23 September 2017 6	Southampton	0–1	Manchester United
+24 February 2018 28	Burnley	1–1	Southampton
+26 August 2017 3	Huddersfield Town	0–0	Southampton
+26 December 2017 20	Tottenham Hotspur	5–2	Southampton
+26 November 2017 13	Southampton	4–1	Everton
+28 April 2018 35	Southampton	2–1	Bournemouth
+29 November 2017 14	Manchester City	2–1	Southampton
+29 October 2017 10	Brighton & Hove Albion	1–1	Southampton
+3 December 2017 15	Bournemouth	1–1	Southampton
+3 February 2018 26	West Bromwich Albion	2–3	Southampton
+3 March 2018 29	Southampton	0–0	Stoke City
+30 December 2017 21	Manchester United	0–0	Southampton
+30 September 2017 7	Stoke City	2–1	Southampton
+31 January 2018 25	Southampton	1–1	Brighton & Hove Albion
+31 March 2018 31	West Ham United	3–0	Southampton
+4 November 2017 11	Southampton	0–1	Burnley
+5 May 2018 36	Everton	1–1	Southampton
+8 April 2018 32	Arsenal	3–2	Southampton
+8 May 2018 37	Swansea City	0–1	Southampton
+9 September 2017 4	Southampton	0–2	Watford
